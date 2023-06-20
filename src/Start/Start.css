@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    height: 86vh;
+}
+
+.Description-user{
+    flex: 1;
+}
+
+.image-user{
+    flex: 1;
+    text-align: right;
+}
+
+.Description-user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Description-user p {
+    font-size: 2rem;
+    margin-top: -5px;
+    font-weight: 700;
+    padding-bottom: 0.5rem;
+}
+
+.icons-three{
+    padding: 1rem;
+}
+
+.icons-three a {
+    padding: 0 0.3rem;
+}
+
+.image-user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-user img{
+    height: 350px;
+}

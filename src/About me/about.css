@@ -1,0 +1,27 @@
+.container-about{
+    display: flex;
+    height: 100vh;
+}
+
+.image-user_edu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    text-align: left;
+}
+
+.image-user_edu img{
+    height: 420px;
+    border-radius: 10%;
+}
+
+
+.text-user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: 1;
+}
+
